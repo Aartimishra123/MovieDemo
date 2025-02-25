@@ -1,6 +1,6 @@
 Movie App - README
 
-This is an Android Movie App that allows users to search for movies using the OMDb API, view movie details, and mark/unmark movies as favorites. The app follows the MVVM architecture and utilizes Room Database for local persistence.
+This is an Android Movie App that allows users to search for movies using the OMDb API, view movie details, and mark/unmark movies as favorites. The app utilizes Room Database for local persistence.
 
 📌 Features
 
@@ -51,3 +51,11 @@ To use the Movies App, follow these steps:
 4. Click on a movie to view its details.
 5. To add a movie to your favorites, click on the Add favourites button in the movie details screen.
 6. To view your favorites, click on tfavourties button
+
+
+   Installation
+To install the Movie App, follow these steps:
+
+Clone the repository to your local machine using git clone (https://github.com/Aartimishra123/MovieDemo/).
+Open the project in Android Studio.
+Build and run the app on an emulator or physical device.
